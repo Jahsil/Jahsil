@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Computer Engineer</h1>
 <h3 align="center">A passionate computer engineer dedicated to leveraging expertise in system design, optimization, and software engineering to drive innovation and solve complex technological challenges.</h3>
-<img align=”right”  width=”400” src=”https://raw.githubusercontent.com/Jahsil/Competitive-Programming-/main/App.py%20(1).gif”/>
+<img align=”right”  width=”300” src=”https://raw.githubusercontent.com/Jahsil/Competitive-Programming-/main/App.py%20(1).gif”/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahsil&label=Profile%20views&color=0e75b6&style=flat" alt="jahsil" /> </p>
 
