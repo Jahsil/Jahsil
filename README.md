@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Jahsil/Competitive-Programming-/main/App.py%20(1).gif)](https://eyouel-kibret.netlify.app) 
+<!-- [![MasterHead](https://raw.githubusercontent.com/Jahsil/Competitive-Programming-/main/App.py%20(1).gif)](https://eyouel-kibret.netlify.app) -->
 
 
 <h1 align="center">Hi 👋, I'm Computer Engineer</h1>
