@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/euhaile" target="blank"><img src="https://img.shields.io/twitter/follow/euhaile?logo=twitter&style=for-the-badge" alt="euhaile" /></a> </p>
 
-- 🔭 I’m currently working on **utilizing Observium to gather and analyze data, generating reports for diverse devices spanning the entire WAN network infrastructure in Addis Ababa.**
+- 🔭 I’m currently working on **a comprehensive DNS manager to streamline domain and record management for enterprises. Additionally, I am designing a robust topology manager to efficiently oversee and manage the deployment of infrastructure devices for ISPs.**
 
 - 🌱 I’m currently learning **system design**
 
