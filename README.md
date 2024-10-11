@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **backend development, focusing on system design, scaling, and optimization strategies for large-scale systems.**
 
-- 👨‍💻 All of my projects are available at [https://eyouel-kibret.netlify.app/](https://eyouel-kibret.dev.et/)
+- 👨‍💻 All of my projects are available at [https://eyouel-kibret.dev.et/](https://eyouel-kibret.dev.et/)
 
 - 💬 Ask me about **Python, C++, Vue, Tensorflow, Laravel, Php, Nginx, Databases**
 
