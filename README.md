@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/euhaile" target="blank"><img src="https://img.shields.io/twitter/follow/euhaile?logo=twitter&style=for-the-badge" alt="euhaile" /></a> </p>
 
-- 🔭 I’m currently working on **a comprehensive DNS manager to streamline domain and record management for enterprises. Additionally, I am designing a robust topology manager to efficiently oversee and manage the deployment of infrastructure devices for ISPs.**
+- 🔭 I have built a NS manager to handle the domain and records of the company and enhanced the DNS infrastructure. Additionally, I developed a business manager that configures network devices in metro networks. This tool also maps network devices in a topology tree, enabling seamless connections and provisioning various devices within the metro network.**
 
 - 🌱 I’m currently learning **system design**
 
 - 👯 I’m looking to collaborate on **backend development, focusing on system design, scaling, and optimization strategies for large-scale systems.**
 
-- 👨‍💻 All of my projects are available at [https://eyouel-kibret.netlify.app/](https://eyouel-kibret.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://eyouel-kibret.netlify.app/](https://eyouel-kibret.dev.et/)
 
 - 💬 Ask me about **Python, C++, Vue, Tensorflow, Laravel, Php, Nginx, Databases**
 
