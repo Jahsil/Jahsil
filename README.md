@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on **backend development, focusing on system design, scaling, and optimization strategies for large-scale systems.**
 
-- 👨‍💻 All of my projects are available at [https://eyouel-kibret.dev.et/](https://eyouel-kibret.dev.et/)
+- 👨‍💻 All of my projects are available at [https://portfolio.eyouel-kibret.dev.et/](https://portfolio.eyouel-kibret.dev.et/)
 
 - 💬 Ask me about **Python, C++, Vue, Tensorflow, Laravel, Php, Nginx, Databases**
 
 - 📫 How to reach me **abysinia1945@gmail.com**
 
-- 📄 Know about my experiences [https://eyouel-kibret.netlify.app/static/media/EyouelKibretCV.203704172de7f12647d0.pdf](https://eyouel-kibret.netlify.app/static/media/EyouelKibretCV.203704172de7f12647d0.pdf)
+- 📄 Know about my experiences [https://portfolio.eyouel-kibret.dev.et/assets/EyouelKibretCV.pdf](https://portfolio.eyouel-kibret.dev.et/assets/EyouelKibretCV.pdf)
 
 - ⚡ Fun fact **I'm a huge fan of comedy movies, with "The Office" being one of my all-time favorites!**
 
