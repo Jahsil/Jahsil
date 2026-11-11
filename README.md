@@ -1,41 +1,151 @@
-<!-- [![MasterHead](https://raw.githubusercontent.com/Jahsil/Competitive-Programming-/main/App.py%20(1).gif)](https://eyouel-kibret.netlify.app) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3b&height=200&section=header&text=Eyouel%20(Prime)%20Kibret&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=M.S.%20Computer%20Science%20at%20George%20Washington%20University&descAlignY=60&descSize=16" width="100%" alt="Eyouel Kibret" />
 
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Computer Engineer</h1>
-<h3 align="center">A passionate computer engineer dedicated to leveraging expertise in system design, optimization, and software engineering to drive innovation and solve complex technological challenges.</h3>
-<img align=”right”  width=”200” src=”https://raw.githubusercontent.com/Jahsil/Competitive-Programming-/main/App.py%20(1).gif”/>
+<a href="https://portfolio.eyouel-kibret.dev.et/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=640&height=45&lines=Systems+and+Cloud+Engineer;Serverless+Runtimes+and+WebAssembly;Distributed+Systems+on+AWS;Open+Source+Contributor" alt="Typing animation" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahsil&label=Profile%20views&color=0e75b6&style=flat" alt="jahsil" /> </p>
+<h3>I build and study the layers underneath applications:<br/>serverless runtimes, distributed systems, and the networks that carry them.</h3>
 
-<p align="left"> <a href="https://twitter.com/euhaile" target="blank"><img src="https://img.shields.io/twitter/follow/euhaile?logo=twitter&style=for-the-badge" alt="euhaile" /></a> </p>
-
-- 🔭 I have built a NS manager to handle the domain and records of the company and enhanced the DNS infrastructure. Additionally, I developed a business manager that configures network devices in metro networks. This tool also maps network devices in a topology tree, enabling seamless connections and provisioning various devices within the metro network.**
-
-- 🌱 I’m currently learning **system design**
-
-- 👯 I’m looking to collaborate on **backend development, focusing on system design, scaling, and optimization strategies for large-scale systems.**
-
-- 👨‍💻 All of my projects are available at [https://portfolio.eyouel-kibret.dev.et/](https://portfolio.eyouel-kibret.dev.et/)
-
-- 💬 Ask me about **Python, C++, Vue, Tensorflow, Laravel, Php, Nginx, Databases**
-
-- 📫 How to reach me **abysinia1945@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio.eyouel-kibret.dev.et/assets/EyouelKibretCV.pdf](https://portfolio.eyouel-kibret.dev.et/assets/EyouelKibretCV.pdf)
-
-- ⚡ Fun fact **I'm a huge fan of comedy movies, with "The Office" being one of my all-time favorites!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/euhaile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="euhaile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eyouel-haile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyouel-haile" height="30" width="40" /></a>
-<a href="https://instagram.com/euhaile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="euhaile" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/joelha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joelha" height="30" width="40" /></a>
+<p>
+  <a href="https://portfolio.eyouel-kibret.dev.et/"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://portfolio.eyouel-kibret.dev.et/assets/EyouelKibretCV.pdf"><img src="https://img.shields.io/badge/Resume-PDF-1b1f3b?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://linkedin.com/in/eyouel-haile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abysinia1945@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=jahsil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahsil&show_icons=true&locale=en&layout=compact" alt="jahsil" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahsil&" alt="jahsil" /></p>
+<hr/>
+
+<h2 align="center">What I Am Working On Now</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🔬 GW Systems Lab</h4>
+      <p>My current research is on <b>SLEdge</b>, a serverless computing framework. I am porting SeBS benchmarks and tracing how the runtime manages memory, working under Professor Timothy Wood.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>☁️ GW Open Source Program Office</h4>
+      <p>As a Technical Projects Graduate Ambassador, I deployed a UN SDG classifier tool on AWS Linux using Docker.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🧩 MetaCall</h4>
+      <p>I contributed a gRPC serial plugin and fixed a protobuf segfault by replacing the JSON API calls with a hand written recursive serializer.</p>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2 align="center">Selected Projects</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Debatrium</h3>
+      <p><i>A fault tolerant, nine agent GPT-4o debate system on AWS. I served as infrastructure lead.</i></p>
+      <ul>
+        <li>Seven SQS FIFO queues, four Lambda functions, ElastiCache Redis Multi-AZ, and EC2 Auto Scaling Groups</li>
+        <li>Atomic dispatch locks with Redis <code>SET NX</code> and idempotent writes</li>
+        <li>Heartbeat based crash recovery with a 30 second target</li>
+        <li>Exponential backoff and dead letter queues that stop after three failed receives</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>LogAggregator</h3>
+      <p><i>A streaming log pipeline written in Scala.</i></p>
+      <ul>
+        <li>Kafka for ingestion, Spark Structured Streaming for processing, Cassandra for storage</li>
+        <li>Six parallel streaming queries</li>
+        <li>I wrote a Medium article on the design</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>DNS Infrastructure Lab</h3>
+      <p><i>A full authoritative and recursive DNS stack.</i></p>
+      <ul>
+        <li>BIND9 as an authoritative nameserver</li>
+        <li>Unbound as a public recursive resolver with DNSSEC</li>
+        <li>Response rate limiting, plus DNS over HTTPS and TLS through dnsdist</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Interactive Portfolio</h3>
+      <p><i>My personal site, built to be played with.</i></p>
+      <ul>
+        <li>A playable chess game and a working terminal emulator</li>
+        <li>A section on Ethiopian culture</li>
+        <li><a href="https://portfolio.eyouel-kibret.dev.et/">Visit it here</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2 align="center">Experience</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>WebSprix, Addis Ababa</h3>
+      <p><b>Software Engineer</b></p>
+      <ul>
+        <li>Built an NS manager that handles domains and records for the company and improved its DNS infrastructure</li>
+        <li>Built a business manager that configures network devices across metro networks and maps them in a topology tree for provisioning</li>
+        <li>Configured MPLS backbone, PE, and CPE equipment, and built a network observability tool for the NOC team</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>University of Michigan</h3>
+      <p><b>Research Intern</b></p>
+      <ul>
+        <li>Wrote multithreaded C++ for embedding workloads that make use of the memory hierarchy</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2 align="center">Toolbox</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,scala,js,php&theme=dark" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,kafka,spark,redis,cassandra,mysql&theme=dark" alt="Infrastructure and data" /><br/>
+  <img src="https://skillicons.dev/icons?i=vue,laravel,tensorflow,git,cmake&theme=dark" alt="Frameworks and tools" />
+</p>
+
+<p align="center"><b>Focus areas:</b> serverless computing, distributed systems, WebAssembly toolchains, cloud architecture, DNS and network infrastructure, open source systems work</p>
+
+<hr/>
+
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jahsil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahsil&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<hr/>
+
+<div align="center">
+
+<h3>Open to software engineering and research roles in backend, cloud infrastructure, and systems.</h3>
+<p>If you are building something that needs to scale and stay up, I would like to hear about it.</p>
+
+<p>
+  <a href="https://twitter.com/euhaile"><img src="https://img.shields.io/badge/X-euhaile-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.leetcode.com/joelha"><img src="https://img.shields.io/badge/LeetCode-joelha-ffa116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+</p>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1f3b,100:0e75b6&height=100&section=footer" width="100%" alt="" />
