@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3b&height=210&section=header&text=Eyouel%20Kibret&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=From%20Addis%20Ababa%20to%20Washington%2C%20DC%20%7C%20Building%20systems%20that%20stay%20up&descAlignY=60&descSize=16" width="100%" alt="Eyouel Kibret" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3b&height=210&section=header&text=Eyouel%20Kibret&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AWS%20Solutions%20Architect%20%7C%20Distributed%20Systems%20%7C%20Networks%20%7C%20Operating%20Systems&descAlignY=60&descSize=16" width="100%" alt="Eyouel Kibret" />
 
 <div align="center">
 
 <a href="https://portfolio.eyouel-kibret.dev.et/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=700&height=45&lines=Systems+and+Cloud+Engineer;I+make+serverless+runtimes+behave;I+teach+queues+to+survive+crashes;I+get+DNS+to+say+the+right+thing;Open+source+contributor+in+the+making" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0E75B6&center=true&vCenter=true&width=720&height=45&lines=AWS+Certified+Solutions+Architect;Distributed+systems+that+survive+crashes;Networks%2C+from+DNS+to+MPLS;Operating+systems+and+how+they+really+work;Open+source+contributor+in+the+making" alt="Typing animation" />
 </a>
 
-<h3>I build and study the layers underneath applications:<br/>serverless runtimes, distributed systems, and the networks that carry them.</h3>
+<h3>I build and study the layers underneath applications:<br/>distributed systems, networks, and operating systems.</h3>
 
 <p>
   <a href="https://portfolio.eyouel-kibret.dev.et/"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -15,7 +15,8 @@
   <a href="mailto:abysinia1945@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=jahsil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-ff9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect" />
+<img src="https://komarev.com/ghpvc/?username=jahsil&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -28,18 +29,21 @@
     <td width="50%" valign="top">
 <pre>
 $ whoami
-eyouel_kibret 
+eyouel_kibret  # friends call me Prime
 
 $ cat role.txt
 Graduate Research Assistant, GW Systems Lab
 Technical Projects Graduate Ambassador, GW OSPO
+
+$ cat certification.txt
+AWS Certified Solutions Architect
 
 $ cat education.txt
 M.S. Computer Science, George Washington University
 GPA: 4.0
 
 $ pwd
-Washington, DC  (originally Addis Ababa, Ethiopia)
+Washington, DC
 
 $ cat looking_for.txt
 Backend, cloud infrastructure, and systems roles
@@ -56,10 +60,49 @@ Backend, cloud infrastructure, and systems roles
           <td align="center"><h1>6</h1><sub>parallel Spark streaming queries</sub></td>
         </tr>
         <tr>
-          <td align="center"><h1>5</h1><sub>build failures diagnosed in one SLEdge onboarding</sub></td>
-          <td align="center"><h1>2</h1><sub>continents of engineering experience</sub></td>
+          <td align="center"><h1>3</h1><sub>layers I obsess over: distributed, network, OS</sub></td>
+          <td align="center"><h1>AWS</h1><sub>Solutions Architect certified</sub></td>
         </tr>
       </table>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<h2 align="center">🧠 The Three Layers I Care About</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🕸️ Distributed Systems</h3>
+      <p>I like the hard part: what happens when machines fail, messages repeat, and clocks disagree.</p>
+      <ul>
+        <li>Queues, retries, and dead letter handling</li>
+        <li>Redis locking and idempotent writes</li>
+        <li>Crash detection and recovery</li>
+        <li>Streaming pipelines with Kafka, Spark, and Cassandra</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌐 Networks</h3>
+      <p>I have worked on real provider networks and on the DNS that makes them usable.</p>
+      <ul>
+        <li>MPLS backbone, PE, and CPE configuration</li>
+        <li>Metro network provisioning and topology mapping</li>
+        <li>Authoritative and recursive DNS, DNSSEC, DoH and DoT</li>
+        <li>NOC observability tooling</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🐧 Operating Systems</h3>
+      <p>I want to know what the machine is really doing under my code.</p>
+      <ul>
+        <li>Multithreaded C++ shaped by the memory hierarchy</li>
+        <li>Native code debugging, including a hard segfault fix</li>
+        <li>Linux deployments with Docker on AWS</li>
+        <li>Open source systems code in C and C++</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -72,7 +115,7 @@ Backend, cloud infrastructure, and systems roles
   <tr>
     <td width="33%" valign="top">
       <h4>🔬 GW Systems Lab</h4>
-      <p>My current research is on <b>SLEdge</b>, a serverless computing framework. I am porting SeBS benchmarks and tracing how the runtime manages memory, working under Professor Timothy Wood.</p>
+      <p>I am a Graduate Research Assistant doing systems research under Professor Timothy Wood.</p>
     </td>
     <td width="33%" valign="top">
       <h4>☁️ GW Open Source Program Office</h4>
@@ -80,29 +123,39 @@ Backend, cloud infrastructure, and systems roles
     </td>
     <td width="33%" valign="top">
       <h4>🧩 MetaCall</h4>
-      <p>I contributed a gRPC serial plugin and fixed a protobuf segfault by replacing the JSON API calls with a hand written recursive serializer.</p>
+      <p>I contributed a gRPC serial plugin to this open source project, and I fixed a protobuf segfault along the way.</p>
     </td>
   </tr>
 </table>
 
-<h3 align="center">How a C function becomes a serverless function in SLEdge</h3>
-
-<p align="center"><i>The pipeline I learned end to end, and ran with my own custom C function.</i></p>
-
-```mermaid
-flowchart LR
-    A[C source] -->|WASI SDK| B[WebAssembly]
-    B -->|aWsm| C[LLVM bitcode]
-    C -->|compile| D[Native shared library]
-    D -->|loaded by| E[sledgert runtime]
-    E -->|HTTP request| F[Function response]
-```
-
 <details>
-<summary><b>🛠️ Story time: five build failures on one laptop</b></summary>
+<summary><b>🛠️ Story time: the segfault hiding in a JSON call</b></summary>
 <br/>
-When I started with SLEdge on Apple Silicon, the build broke five different ways. I diagnosed and fixed every one, and that forced me to learn how the whole toolchain fits together instead of just running it. The payoff was a custom C function running end to end, and a much better feel for where the runtime keeps its memory.
+While building the gRPC serial plugin for MetaCall, I hit a critical segfault that traced back to the Protobuf JSON API calls. Instead of working around it, I replaced those calls with a hand written recursive serializer. The crash went away, and I understood the data path far better than I would have by patching around it.
 </details>
+
+<hr/>
+
+<h2 align="center">☁️ AWS in Practice</h2>
+
+<p align="center">As an AWS Certified Solutions Architect, I design for failure first, then for cost and speed.</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Built and run</h4>
+      <p>SQS FIFO, Lambda, ElastiCache Redis Multi-AZ, EC2 Auto Scaling Groups, S3 static hosting, and Dockerized deployments on AWS Linux.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Studied in depth</h4>
+      <p>Redshift, EMR, Athena, Kinesis, and Glue through my data engineering coursework.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>How I think</h4>
+      <p>Multi-AZ by default, retries that cannot corrupt state, and dead letter queues so failures are visible instead of silent.</p>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
@@ -144,8 +197,8 @@ When I started with SLEdge on Apple Silicon, the build broke five different ways
       <h3>♟️ Interactive Portfolio</h3>
       <p><i>My personal site, built to be played with.</i></p>
       <ul>
-        <li>A playable chess game and a working terminal emulator</li>
-        <li>A section on Ethiopian culture</li>
+        <li>A playable chess game</li>
+        <li>A working terminal emulator</li>
         <li><a href="https://portfolio.eyouel-kibret.dev.et/">Come and click around</a></li>
       </ul>
     </td>
@@ -171,8 +224,8 @@ When I started with SLEdge on Apple Silicon, the build broke five different ways
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>WebSprix, Addis Ababa</h3>
-      <p><b>Software Engineer</b></p>
+      <h3>WebSprix</h3>
+      <p><b>Software Engineer, private ISP</b></p>
       <ul>
         <li>Built an NS manager that handles domains and records for the company and improved its DNS infrastructure</li>
         <li>Built a business manager that configures network devices across metro networks and maps them in a topology tree for provisioning</li>
@@ -199,7 +252,7 @@ When I started with SLEdge on Apple Silicon, the build broke five different ways
   <img src="https://skillicons.dev/icons?i=vue,laravel,tensorflow,git,cmake&theme=dark" alt="Frameworks and tools" />
 </p>
 
-<p align="center"><b>Ask me about:</b> serverless runtimes, WebAssembly toolchains, queues and retries, Redis locking, DNS from the zone file to DNSSEC, MPLS networks, and Nginx</p>
+<p align="center"><b>Ask me about:</b> distributed systems design, queues and retries, Redis locking, AWS architecture, DNS from the zone file to DNSSEC, MPLS networks, Linux, and Nginx</p>
 
 <hr/>
 
@@ -216,8 +269,8 @@ When I started with SLEdge on Apple Silicon, the build broke five different ways
       <p>I like the game enough that I put one inside my portfolio website.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>🇪🇹 Ethiopian roots</h4>
-      <p>I grew up in Addis Ababa, and my portfolio has a section on the culture I come from.</p>
+      <h4>🔓 Open source</h4>
+      <p>I enjoy reading and contributing to systems code, and MetaCall was my way in.</p>
     </td>
   </tr>
 </table>
