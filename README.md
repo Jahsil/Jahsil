@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3b&height=210&section=header&text=Eyouel%20Kibret&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AWS%20Solutions%20Architect%20%7C%20Distributed%20Systems%20%7C%20Networks%20%7C%20Operating%20Systems&descAlignY=60&descSize=16" width="100%" alt="Eyouel Kibret" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1b1f3b&height=210&section=header&text=Eyouel%20Kibret&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AWS%20Solutions%20Architect%20%7C%20Distributed%20Systems%20%7C%20Networks%20%7C%20Operating%20Systems&descAlignY=60&descSize=16" width="100%" alt="Eyouel Kibret" />
 
 <div align="center">
 
@@ -29,10 +29,8 @@
     <td width="50%" valign="top">
 <pre>
 $ whoami
-eyouel_kibret  # friends call me Prime
-
+eyouel_kibret  
 $ cat role.txt
-Graduate Research Assistant, GW Systems Lab
 Technical Projects Graduate Ambassador, GW OSPO
 
 $ cat certification.txt
@@ -114,16 +112,16 @@ Backend, cloud infrastructure, and systems roles
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h4>🔬 GW Systems Lab</h4>
-      <p>I am a Graduate Research Assistant doing systems research under Professor Timothy Wood.</p>
-    </td>
-    <td width="33%" valign="top">
       <h4>☁️ GW Open Source Program Office</h4>
       <p>As a Technical Projects Graduate Ambassador, I deployed a UN SDG classifier tool on AWS Linux using Docker, so the tool is easy for others to run and own.</p>
     </td>
     <td width="33%" valign="top">
       <h4>🧩 MetaCall</h4>
       <p>I contributed a gRPC serial plugin to this open source project, and I fixed a protobuf segfault along the way.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌐 DNS Infrastructure</h4>
+      <p>I run my own authoritative and recursive DNS stack with BIND9, Unbound, DNSSEC, and dnsdist.</p>
     </td>
   </tr>
 </table>
@@ -223,7 +221,7 @@ While building the gRPC serial plugin for MetaCall, I hit a critical segfault th
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>WebSprix</h3>
       <p><b>Software Engineer, private ISP</b></p>
       <ul>
@@ -232,11 +230,18 @@ While building the gRPC serial plugin for MetaCall, I hit a critical segfault th
         <li>Configured MPLS backbone, PE, and CPE equipment, and built a network observability tool for the NOC team</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>University of Michigan</h3>
       <p><b>Research Intern</b></p>
       <ul>
         <li>Wrote multithreaded C++ for embedding workloads that make use of the memory hierarchy</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>GW Open Source Program Office</h3>
+      <p><b>Technical Projects Graduate Ambassador</b></p>
+      <ul>
+        <li>Deployed a UN SDG classifier tool on AWS Linux with Docker</li>
       </ul>
     </td>
   </tr>
@@ -276,15 +281,6 @@ While building the gRPC serial plugin for MetaCall, I hit a critical segfault th
 </table>
 
 <p align="center"><i>My favorite distributed systems joke: there are two hard problems.<br/>2. Exactly once delivery.<br/>1. Guaranteed order.<br/>2. Exactly once delivery.</i></p>
-
-<hr/>
-
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jahsil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahsil&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 <hr/>
 
